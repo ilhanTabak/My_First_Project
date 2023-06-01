@@ -1,0 +1,1 @@
+Bu repository`ye herhangi bir push yapoilirsa Github-Webhook job otomatik tetiklenecek
